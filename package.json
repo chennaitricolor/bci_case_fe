@@ -34,6 +34,7 @@
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
+    "@rebass/forms": "^4.0.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-svg": "^11.0.21",
